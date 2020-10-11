@@ -14,4 +14,4 @@ Features
 
 ____________
 To play, execute ```/home/user/ruby hangman.rb``` from the command line.
-If you want to add new words to the game, open a text document **words.txt** and add to the list.
+If you want to add new words to the game, open a text document ```/home/user/hangman/data/words.txt``` and add to the list.
