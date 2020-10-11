@@ -22,8 +22,8 @@ ruby hangman.rb
 from the command line.
 If you want to add new words to the game, open a text document 
 
-```
+`
 data/words.txt
-``` 
+`
 
 and add to the list.
