@@ -16,7 +16,7 @@ ____________
 To play, execute 
 
 ```
-/home/user/ruby hangman.rb
+ruby hangman.rb
 ``` 
 
 from the command line.
