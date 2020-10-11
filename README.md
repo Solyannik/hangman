@@ -1,5 +1,4 @@
-Hangman in Ruby
-
+### **Hangman in Ruby**
 Command line based version of Hangman.
 
 Introduction
@@ -9,8 +8,10 @@ The goal is to successfully guess the word before the man gets hanged.
 
 Features
 
-Keeps track of guessed letters
-Allows 7 incorrect guesses per game
+- Keeps track of guessed letters
 
-To play, execute ruby hangman.rb from the command line.
-If you want to add new words to the game, open a text document words.txt and add to the list.
+- Allows 7 incorrect guesses per game
+
+____________
+To play, execute **ruby hangman.rb** from the command line.
+If you want to add new words to the game, open a text document **words.txt** and add to the list.
