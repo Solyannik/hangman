@@ -13,5 +13,17 @@ Features
 - Allows 7 incorrect guesses per game
 
 ____________
-To play, execute ```/home/user/ruby hangman.rb``` from the command line.
-If you want to add new words to the game, open a text document ```/home/user/hangman/data/words.txt``` and add to the list.
+To play, execute 
+
+```
+/home/user/ruby hangman.rb
+``` 
+
+from the command line.
+If you want to add new words to the game, open a text document 
+
+```
+data/words.txt
+``` 
+
+and add to the list.
