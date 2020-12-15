@@ -16,7 +16,11 @@ ____________
 To play, execute 
 
 ```
-ruby hangman.rb
+bundle install
+```
+
+```
+bundle exec ruby hangman.rb
 ``` 
 
 from the command line.
